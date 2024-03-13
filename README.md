@@ -19,5 +19,4 @@ This repo is containing all te resources that I have learned any concept from. A
     - [2889. Reshape Data: Pivot]()
     - [2890. Reshape Data: Melt]()
     - [2891. Method Chaining]()
-
-   
+ 
