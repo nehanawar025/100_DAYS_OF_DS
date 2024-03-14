@@ -12,25 +12,6 @@
 
 # The result format is in the following example.
 
-# Example 1:
-
-# Input:
-# +------------+---------+-----+
-# | student_id | name    | age |
-# +------------+---------+-----+
-# | 32         | Piper   | 5   |
-# | 217        | None    | 19  |
-# | 779        | Georgia | 20  |
-# | 849        | Willow  | 14  |
-# +------------+---------+-----+
-# Output:
-# +------------+---------+-----+
-# | student_id | name    | age |
-# +------------+---------+-----+
-# | 32         | Piper   | 5   |
-# | 779        | Georgia | 20  | 
-# | 849        | Willow  | 14  | 
-# +------------+---------+-----+
 
 # ----------------------------------------------------------------------------------------------------
 
@@ -40,5 +21,13 @@ def dropMissingData(students: pd.DataFrame) -> pd.DataFrame:
     students.dropna(axis = 'index', how = 'any', subset = 'name', inplace = True)
     return students
 
+# or------------------
+
+import pandas as pd
+
+def dropMissingData(students: pd.DataFrame) -> pd.DataFrame:
+    # students.dropna(axis = 'index', how = 'any', subset = 'name', inplace = True)
+    students.dropna(subset = 'name', inplace = True)
+    return students
 
 
