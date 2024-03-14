@@ -9,24 +9,6 @@
 
 # Write a solution to create a new column name bonus that contains the doubled values of the salary column.
 
-# The result format is in the following example.
-
- 
-
-# Example 1:
-
-# Input:
-# DataFrame employees
-# +---------+--------+
-# | name    | salary |
-# +---------+--------+
-# | Piper   | 4548   |
-# | Grace   | 28150  |
-# | Georgia | 1103   |
-# | Willow  | 6593   |
-# | Finn    | 74576  |
-# | Thomas  | 24433  |
-# +---------+--------+
 # Output:
 # +---------+--------+--------+
 # | name    | salary | bonus  |
