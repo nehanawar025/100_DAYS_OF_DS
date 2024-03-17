@@ -1,0 +1,12 @@
+1. How would you create a new pandas DataFrame with two columns, 'Name' and 'Age', and populate it with some sample data?
+2. How would you select the rows from a DataFrame where the 'Age' column is greater than 30?
+3. How would you filter a DataFrame to include only the rows where the 'Name' column starts with the letter 'A'?
+4. How would you group a DataFrame by the 'Age' column and calculate the count of rows for each group?
+5. How would you sort a DataFrame by the 'Name' column in ascending order?
+6. How would you create a new column in a DataFrame called 'FullName' by concatenating the 'Name' and 'Age' columns?
+7. How would you drop the 'Age' column from a DataFrame?
+8. How would you merge two DataFrames based on a common column, 'Name'?
+9. How would you create a pivot table from a DataFrame with the 'Name' column as the rows and the 'Age' column as the values?
+10. How would you calculate the mean of the 'Age' column in a DataFrame?
+11. How would you create a new DataFrame by concatenating two existing DataFrames, df1 and df2, based on a common column, 'Name'?
+12. How would you create a bar chart using the 'Name' and 'Age' columns of a DataFrame?
