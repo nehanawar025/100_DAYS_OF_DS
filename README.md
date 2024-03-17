@@ -4,7 +4,7 @@ This repo is containing all te resources that I have learned any concept from. A
 | Day(1-20) | Day(21-40) | Day(41-60) | Day(61-80) | Day(81-100) |
 | :---: | :---: | :---: | :---: | :---: |
 | [Day 1](https://github.com/nehanawar025/100_DAYS_OF_DS/tree/main/Day%201)| Day 21 | Day 41 | Day 61 | Day 81 |
-| Day 2 | Day 22 | Day 42 | Day 62 | Day 82 |
+| [Day 2](https://github.com/nehanawar025/100_DAYS_OF_DS/tree/main/Day_2) | Day 22 | Day 42 | Day 62 | Day 82 |
 | Day 3 | Day 23 | Day 43 | Day 63 | Day 83 |
 | Day 4 | Day 24 | Day 44 | Day 64 | Day 84 |
 | Day 5 | Day 25 | Day 45 | Day 65 | Day 85 |
